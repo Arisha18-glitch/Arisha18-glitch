@@ -11,7 +11,7 @@ C++
  | Java
  | Python
 
-#Core Concepts:
+# Core Concepts:
 OOP | Data Structures & Algorithms | MVC Architecture | Software Design Patterns | Logical Problem Solving
 
 # Tools & Platforms:
