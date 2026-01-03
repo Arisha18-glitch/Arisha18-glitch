@@ -4,17 +4,17 @@ Software Engineering Student | Aspiring AI & Software Developer
 
 Building scalable software, AI-driven systems, and clean, maintainable code. Focused on problem-solving, backend, and system design.
 
-# Skills & Expertise
+## Skills & Expertise
 
-## Programming Languages:
+### Programming Languages:
 C++
  | Java
  | Python
 
-## Core Concepts:
+### Core Concepts:
 OOP | Data Structures & Algorithms | MVC Architecture | Software Design Patterns | Logical Problem Solving
 
-## Tools & Platforms:
+### Tools & Platforms:
  | VS Code
  | Android Studio
  | XAMPP
