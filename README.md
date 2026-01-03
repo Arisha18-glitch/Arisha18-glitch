@@ -22,8 +22,8 @@ VS Code
  | MongoDB
  | Git & GitHub | Visual Studio | Jupyter Notebook
 
-## Featured Projects
-Project	Description	Tech Stack	Repository
+## Projects / Portfolio
+Project	Description	Tech Stack
 Task Manager System	Dynamic task manager with queue, reminders, and AI chatbot assistant	C++, HTML, JS, Python
 AI Network Detection System	Rule-based AI for detecting network anomalies and diagnosing stability	Python, Flask, MongoDB
 NeuroTick	AI-based intelligent system focusing on detection/analysis	Python, AI Logic
@@ -37,6 +37,8 @@ Art Gallery Website	Laravel + XAMPP website with chatbot	PHP, Laravel, XAMPP
 AI Detection & Diagnosis System	Flask dashboard, real-time IP network analysis, MongoDB auth	Python, Flask, MongoDB
 Student Learning App	Flutter app with 3D models, quizzes, and learning community	Flutter, Android Studio
 Voice-to-Text Arduino System	Arduino Nano/Uno, LCD + laptop integration, chatbot-style responses	Arduino, LCD
+
+More projects will be added as my portfolio grows.
 
 ## GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Arisha18-glitch&show_icons=true&hide_title=true&hide_rank=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha18-glitch&layout=compact" height="150"/> </p>
