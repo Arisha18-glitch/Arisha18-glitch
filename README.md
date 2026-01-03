@@ -45,7 +45,8 @@ More projects will be added as my portfolio grows.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arisha18-glitch&show_icons=true&theme=radical)
+
 
 ## Tools & Technologies
 
