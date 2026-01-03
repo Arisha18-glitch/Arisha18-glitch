@@ -1,4 +1,4 @@
-### Syeda Arisha
+## Syeda Arisha
 
 Software Engineering Student | Aspiring AI & Software Developer
 
