@@ -42,8 +42,10 @@ Project	Description	Tech Stack
 
 More projects will be added as my portfolio grows.
 
+
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arisha18-glitch&show_icons=true&
+
+![GitHub Stats](https://github-readme-stats.vercel.app
 
 ## Tools & Technologies
 
