@@ -46,7 +46,7 @@ More projects will be added as my portfolio grows.
 
 ![GitHub Followers](https://img.shields.io/github/followers/Arisha18-glitch?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Arisha18-glitch?style=social)
-![Top Languages](https://img.shields.io/github/languages/top/Arisha18-glitch?style=for-the-badge&color=orange)
+![Top Languages](https://img.shields.io/github/languages/top/Arisha18-glitch?style=social)
 ![Contributions](https://img.shields.io/badge/Contributions-36-blue)
 
 
