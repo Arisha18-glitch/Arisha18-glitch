@@ -44,10 +44,9 @@ More projects will be added as my portfolio grows.
 
 ## GitHub Stats
 
-![Arisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arisha18-glitch&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha18-glitch&layout=compact&theme=radical)
-
+![GitHub followers](https://img.shields.io/github/followers/Arisha18-glitch?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Arisha18-glitch?style=social)
+![GitHub repos](https://img.shields.io/github/repos/Arisha18-glitch?style=social)
 
 
 ## Tools & Technologies
