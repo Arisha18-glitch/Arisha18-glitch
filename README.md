@@ -24,21 +24,20 @@ VS Code
 
 ## Projects / Portfolio
 Project	Description	Tech Stack
-| Project                                 | Description                                                            | Tech Stack              |
-| --------------------------------------- | ---------------------------------------------------------------------- | ----------------------- |
-| **Task Manager System**                 | Dynamic task manager with queue, reminders, and AI chatbot assistant   | C++, HTML, JS, Python   |
-| **AI Network Detection System**         | Rule-based AI for detecting network anomalies and diagnosing stability | Python, Flask, MongoDB  |
-| **NeuroTick**                           | AI-based intelligent system focusing on detection/analysis             | Python, AI Logic        |
-| **Network Detection**                   | Network behavior analysis and detection system                         | Python                  |
-| **BookSphere**                          | Social media platform connecting book lovers                           | Python, Firebase        |
-| **Smart City Management System (SCMS)** | Academic system for managing city services                             | UML, Python, Firebase   |
-| **DDoS Attack Detection System**        | AI-based network anomaly detection with XGBoost + Random Forest        | Python, AI              |
-| **GPT-2 / NLP Trainer**                 | Fine-tuning GPT-2 with custom Q&A messages                             | Python, NLP             |
-| **Computer Vision Projects**            | YOLO-based Vehicle Detection System, OpenCV + Matplotlib               | Python, CV              |
-| **Art Gallery Website**                 | Laravel + XAMPP website with chatbot                                   | PHP, Laravel, XAMPP     |
-| **AI Detection & Diagnosis System**     | Flask dashboard, real-time IP network analysis, MongoDB auth           | Python, Flask, MongoDB  |
-| **Student Learning App**                | Flutter app with 3D models, quizzes, and learning community            | Flutter, Android Studio |
-| **Voice-to-Text Arduino System**        | Arduino Nano/Uno, LCD + laptop integration, chatbot-style responses    | Arduino, LCD            |
+| Project                                 | Description                                                            | Tech Stack                           |
+| --------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------|
+| **Task Manager System**                 | Dynamic task manager with queue, reminders, and AI chatbot assistant   | C++, HTML, JS, Python                |
+| **AI Network Detection System**         | Rule-based AI for detecting network anomalies and diagnosing stability | Python, Flask, MongoDB               |
+| **NeuroTick**                           | AI-based intelligent system focusing on detection/analysis             | Android Studio, Dart, AR integration |
+| **Network Detection**                   | Network behavior analysis and detection system                         | Python ,flask , API                  |
+| **Smart City Management System (SCMS)** | Academic system for managing city services                             | UML, Python, Firebase                |
+| **DDoS Attack Detection System**        | AI-based network anomaly detection with XGBoost + Random Forest        | Python, ML, Model training           |
+| **NLP Trainer**                         | Fine-tuning GPT-2 with custom Q&A messages to train on user data       | Python, NLP                          |
+| **Computer Vision Projects**            | YOLO-based Vehicle Detection System, OpenCV + Matplotlib               | Python, CV                           |
+| **Art Gallery Website**                 |  XAMPP website with chatbot                                            | PHP, XAMPP ,HTML, CSS ,JavaScript    |
+| **AI Detection & Diagnosis System**     | Flask dashboard, real-time IP network analysis, MongoDB auth           | Python, Flask, MongoDB               |
+| **Student Learning App**                | Flutter app with 3D models, quizzes, and learning community            | Flutter, Android Studio              |
+| **Voice-to-Text Arduino System**        | Arduino Nano/Uno, LCD + laptop integration, chatbot-style responses    | Arduino, LCD, ffmpeg for audio & text|
 
 
 More projects will be added as my portfolio grows.
