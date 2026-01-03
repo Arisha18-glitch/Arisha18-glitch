@@ -46,7 +46,7 @@ More projects will be added as my portfolio grows.
 
 ![GitHub followers](https://img.shields.io/github/followers/Arisha18-glitch?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Arisha18-glitch?style=social)
-![GitHub repos](https://img.shields.io/github/repos/Arisha18-glitch?style=social)
+![GitHub Repos](https://img.shields.io/github/repos/Arisha18-glitch?style=social)
 
 
 ## Tools & Technologies
