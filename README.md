@@ -32,11 +32,9 @@ Project	Description	Tech Stack
 | **Network Detection**                   | Network behavior analysis and detection system                         | Python ,flask , API                  |
 | **Smart City Management System (SCMS)** | Academic system for managing city services                             | UML, Python, Firebase                |
 | **DDoS Attack Detection System**        | AI-based network anomaly detection with XGBoost + Random Forest        | Python, ML, Model training           |
-| **NLP Trainer**                         | Fine-tuning GPT-2 with custom Q&A messages to train on user data       | Python, NLP                          |
 | **Computer Vision Projects**            | YOLO-based Vehicle Detection System, OpenCV + Matplotlib               | Python, CV                           |
 | **Art Gallery Website**                 |  XAMPP website with chatbot                                            | PHP, XAMPP ,HTML, CSS ,JavaScript    |
 | **AI Detection & Diagnosis System**     | Flask dashboard, real-time IP network analysis, MongoDB auth           | Python, Flask, MongoDB               |
-| **Student Learning App**                | Flutter app with 3D models, quizzes, and learning community            | Flutter, Android Studio              |
 | **Voice-to-Text Arduino System**        | Arduino Nano/Uno, LCD + laptop integration, chatbot-style responses    | Arduino, LCD, ffmpeg for audio & text|
 
 
