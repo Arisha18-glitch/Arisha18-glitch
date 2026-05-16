@@ -1,0 +1,11 @@
+1) Prompt: "Generate a Vite + TypeScript single-page dashboard for a budgeting app. The UI should summarize income, expenses, net balance, and list recent transactions."
+Outcome: Produced a structure for the dashboard layout and data-driven rendering strategy.
+
+2) Prompt: "Refactor the formatCurrency helper to improve readability and reuse while keeping functionality the same."
+Outcome: Updated the helper to use Intl.NumberFormat with clear defaults and a reusable formatter.
+
+3) Prompt: "Create unit tests (normal, edge, invalid cases) for at least five finance utility functions, including totals, net balance, category summaries, and validation."
+Outcome: Added Vitest tests covering totals, net balance, category sorting, validation errors, and monthly snapshots.
+
+4) Prompt: "Draft a GitHub Actions pipeline for lint → test → build → deploy (GitHub Pages) with npm cache optimization."
+Outcome: Added a CI/CD workflow with caching, artifact upload, and Pages deployment.
