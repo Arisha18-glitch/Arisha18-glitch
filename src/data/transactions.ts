@@ -1,0 +1,68 @@
+import type { Transaction } from '../utils/finance'
+
+export const sampleTransactions: Transaction[] = [
+  {
+    id: 'txn-001',
+    name: 'Monthly Salary',
+    date: '2026-05-01',
+    category: 'Income',
+    amount: 4800,
+    type: 'income',
+  },
+  {
+    id: 'txn-002',
+    name: 'Freelance Design',
+    date: '2026-05-03',
+    category: 'Income',
+    amount: 750,
+    type: 'income',
+  },
+  {
+    id: 'txn-003',
+    name: 'Apartment Rent',
+    date: '2026-05-02',
+    category: 'Housing',
+    amount: 1600,
+    type: 'expense',
+  },
+  {
+    id: 'txn-004',
+    name: 'Groceries',
+    date: '2026-05-05',
+    category: 'Food',
+    amount: 280,
+    type: 'expense',
+  },
+  {
+    id: 'txn-005',
+    name: 'Transit Pass',
+    date: '2026-05-06',
+    category: 'Transport',
+    amount: 120,
+    type: 'expense',
+  },
+  {
+    id: 'txn-006',
+    name: 'Gym Membership',
+    date: '2026-05-07',
+    category: 'Wellness',
+    amount: 55,
+    type: 'expense',
+  },
+  {
+    id: 'txn-007',
+    name: 'Cloud Storage',
+    date: '2026-05-08',
+    category: 'Utilities',
+    amount: 18,
+    type: 'expense',
+  },
+  {
+    id: 'txn-008',
+    name: 'Weekend Trip',
+    date: '2026-05-11',
+    category: 'Travel',
+    amount: 420,
+    type: 'expense',
+  },
+]

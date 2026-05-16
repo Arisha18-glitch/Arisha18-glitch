@@ -1,73 +1,29 @@
-# Syeda Arisha
+# Budget Beacon
 
-Software Engineering Student | Aspiring AI & Software Developer
+Budget Beacon is a lightweight budgeting dashboard that summarizes income, expenses, and savings insights for a month. The project demonstrates AI-assisted development, automated testing, and a CI/CD pipeline that deploys to GitHub Pages.
 
-Building scalable software, AI-driven systems, and clean, maintainable code. Focused on problem-solving, backend, and system design.
+## Features
+- Income, expense, and net balance summaries
+- Top spending category highlights
+- Validation checks for transaction data
+- Responsive, accessible dashboard layout
 
-## Skills & Expertise
+## Project Scripts
 
-### Programming Languages:
-C++
- | Java
- | Python
+```bash
+npm install
+npm run dev
+```
 
-### Core Concepts:
-OOP | Data Structures & Algorithms | MVC Architecture | Software Design Patterns | Logical Problem Solving
+| Command | Description |
+| --- | --- |
+| `npm run lint` | Lint the TypeScript codebase with ESLint |
+| `npm run test` | Run the Vitest suite |
+| `npm run build` | Build the production bundle |
+| `npm run preview` | Preview the production build |
 
-### Tools & Platforms:
- | VS Code
- | Android Studio
- | XAMPP
- | Firebase
- | MongoDB
- | Git & GitHub | Visual Studio | Jupyter Notebook
+## CI/CD
+The GitHub Actions workflow runs lint → test → build → deploy. Deployments publish the `dist/` folder to GitHub Pages.
 
-## Projects / Portfolio
-Project	Description	Tech Stack
-| Project                                 | Description                                                            | Tech Stack                           |
-| --------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------|
-| **Task Manager System**                 | Dynamic task manager with queue, reminders, and AI chatbot assistant   | C++, HTML, JS, Python                |
-| **AI Network Detection System**         | Rule-based AI for detecting network anomalies and diagnosing stability | Python, Flask, MongoDB               |
-| **NeuroTick**                           | AI-based intelligent system focusing on detection/analysis             | Android Studio, Dart, AR integration |
-| **Network Detection**                   | Network behavior analysis and detection system                         | Python ,flask , API                  |
-| **Smart City Management System (SCMS)** | Academic system for managing city services                             | UML, Python, Firebase                |
-| **DDoS Attack Detection System**        | AI-based network anomaly detection with XGBoost + Random Forest        | Python, ML, Model training           |
-| **Computer Vision Projects**            | YOLO-based Vehicle Detection System, OpenCV + Matplotlib               | Python, CV                           |
-| **Art Gallery Website**                 |  XAMPP website with chatbot                                            | PHP, XAMPP ,HTML, CSS ,JavaScript    |
-| **AI Detection & Diagnosis System**     | Flask dashboard, real-time IP network analysis, MongoDB auth           | Python, Flask, MongoDB               |
-| **Voice-to-Text Arduino System**        | Arduino Nano/Uno, LCD + laptop integration, chatbot-style responses    | Arduino, LCD, ffmpeg for audio & text|
-
-
-More projects will be added as my portfolio grows.
-
-## GitHub Stats
-
-![GitHub Followers](https://img.shields.io/github/followers/Arisha18-glitch?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Arisha18-glitch?style=social)
-![Contributions](https://img.shields.io/badge/Contributions-36-blue)
-
-
-
-## Tools & Technologies
-
-[![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)](https://www.cplusplus.com/)
-[![Java](https://img.shields.io/badge/Java-OOP-orange)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-Development-yellow)](https://www.python.org/)
-[![VS Code](https://img.shields.io/badge/VSCode-IDE-blueviolet)](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-brightgreen)](https://developer.android.com/studio)
-[![XAMPP](https://img.shields.io/badge/XAMPP-Server-orange)](https://www.apachefriends.org/index.html)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Database-success)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-Backend-ffcc00)](https://firebase.google.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)](https://github.com/)
-
-## Professional Statement
-
-I am passionate about building real-world systems and AI-driven solutions. My approach combines strong fundamentals, efficient coding, and structured system design, preparing me for internships or roles in AI, backend, and software development.
-
-## Contact
-
-GitHub: https://github.com/Arisha18-glitch
-
-LinkedIn: www.linkedin.com/in/sayedaarisha1218
-
-
+## Deployment
+The live URL is recorded in `Deployment_URL.txt`.
