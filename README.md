@@ -60,6 +60,11 @@ More projects will be added as my portfolio grows.
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-success)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Backend-ffcc00)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-Container-blue)](https://www.docker.com/)
+[![Jira](https://img.shields.io/badge/Jira-Project_Management-0052CC)](https://www.atlassian.com/software/jira)
+[![React](https://img.shields.io/badge/React-Frontend-61DAFB)](https://react.dev/)
+[![JUnit](https://img.shields.io/badge/JUnit-Testing-25A162)](https://junit.org/)
+
 
 ## Professional Statement
 
