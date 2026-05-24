@@ -10,6 +10,7 @@ Building scalable software, AI-driven systems, and clean, maintainable code. Foc
 C++
  | Java
  | Python
+ |js
 
 ### Core Concepts:
 OOP | Data Structures & Algorithms | MVC Architecture | Software Design Patterns | Logical Problem Solving
