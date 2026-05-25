@@ -7,10 +7,7 @@ Building scalable software, AI-driven systems, and clean, maintainable code. Foc
 ## Skills & Expertise
 
 ### Programming Languages:
-C++
- | Java
- | Python
- |js
+C++ | Java | Python | JavaScript
 
 ### Core Concepts:
 OOP | Data Structures & Algorithms | MVC Architecture | Software Design Patterns | Logical Problem Solving
@@ -29,7 +26,7 @@ ProjectDescriptionTech Stack
 | --------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------|
 | **Task Manager System**                 | Dynamic task manager with queue, reminders, and AI chatbot assistant   | C++, HTML, JS, Python                |
 | **AI Network Detection System**         | Rule-based AI for detecting network anomalies and diagnosing stability | Python, Flask, MongoDB               |
-| **NeuroTick**                           | AI-based intelligent system focusing on detection/analysis             | Android Studio, Dart, AR integration |
+| **NeuroTick**                           |Flutter-based Android quiz app with 500+ STEM questions, Firebase backend, and 3D solar system models| Android Studio, Dart, AR integration |
 | **Network Detection**                   | Network behavior analysis and detection system                         | Python ,flask , API                  |
 | **Smart City Management System (SCMS)** | Academic system for managing city services                             | UML, Python, Firebase                |
 | **DDoS Attack Detection System**        | AI-based network anomaly detection with XGBoost + Random Forest        | Python, ML, Model training           |
