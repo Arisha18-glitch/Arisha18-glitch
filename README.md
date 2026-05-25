@@ -1,6 +1,6 @@
 # Syeda Arisha
 
-Software Engineering Student | Aspiring AI & Software Developer
+Software Engineering Student | AI/ML, Embedded Systems & Full-Stack Dev | Turning ideas into working systems
 
 Building scalable software, AI-driven systems, and clean, maintainable code. Focused on problem-solving, backend, and system design.
 
