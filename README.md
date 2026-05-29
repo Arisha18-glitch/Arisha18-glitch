@@ -21,20 +21,24 @@ OOP | Data Structures & Algorithms | MVC Architecture | Software Design Patterns
  | Git & GitHub | Visual Studio | Jupyter Notebook
 
 ## Projects / Portfolio
-ProjectDescriptionTech Stack
-| Project                                 | Description                                                            | Tech Stack                           |
-| --------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------|
-| **Task Manager System**                 | Dynamic task manager with queue, reminders, and AI chatbot assistant   | C++, HTML, JS, Python                |
-| **AI Network Detection System**         | Rule-based AI for detecting network anomalies and diagnosing stability | Python, Flask, MongoDB               |
-| **NeuroTick**                           |Flutter-based Android quiz app with 500+ STEM questions, Firebase backend, and 3D solar system models| Android Studio, Dart, AR integration |
-| **Network Detection**                   | Network behavior analysis and detection system                         | Python ,flask , API                  |
-| **Smart City Management System (SCMS)** | Academic system for managing city services                             | UML, Python, Firebase                |
-| **DDoS Attack Detection System**        | AI-based network anomaly detection with XGBoost + Random Forest        | Python, ML, Model training           |
-| **Computer Vision Projects**            | YOLO-based Vehicle Detection System, OpenCV + Matplotlib               | Python, CV                           |
-| **Art Gallery Website**                 |  XAMPP website with chatbot                                            | PHP, XAMPP ,HTML, CSS ,JavaScript    |
-| **AI Detection & Diagnosis System**     | Flask dashboard, real-time IP network analysis, MongoDB auth           | Python, Flask, MongoDB               |
-| **Voice-to-Text Arduino System**        | Arduino Nano/Uno, LCD + laptop integration, chatbot-style responses    | Arduino, LCD, ffmpeg for audio & text|
 
+| Project | Description | Tech Stack |
+|---|---|---|
+| **DDoS Attack Detection System** | ML-based network intrusion detection system trained on 125,170 network flows from the CIC-DDoS2019 dataset. Achieves 99.57% accuracy across 9 traffic categories using XGBoost classifier with 77 engineered features. Interactive Streamlit dashboard with batch CSV upload, per-class confidence scoring, and feature distribution visualizations. | Python, XGBoost, Random Forest, Scikit-learn, Streamlit, Pandas, PyTorch |
+| **Medical LLaMA 3 (Medico)** | Llama 3 8B fine-tuned on 8,000 medical Q&A pairs using QLoRA and Unsloth on Google Colab T4 GPU. Only 0.26% of parameters trained via LoRA adapters. Training loss reduced from 1.154 to 0.763 across 1,000 steps. Deployed publicly on Hugging Face Hub. | Python, Unsloth, QLoRA, PEFT, TRL, Llama 3, Hugging Face |
+| **Cognita — AI Teaching Assistant** | Offline-first mobile AI teaching assistant fine-tuned on 5,030 CS teaching conversations using QLoRA on TinyLlama 1.1B. Training loss reduced from 2.34 to 0.55. Google Gemini API as online fallback, 4-bit quantization via BitsAndBytesConfig, deployed live on Hugging Face Spaces. | Flutter, TinyLlama, QLoRA, Gemini API, Hugging Face, BitsAndBytes, Firebase |
+| **Clirix — Your Thinking Layer** | Fully local AI assistant running 100% offline via Ollama. Streams responses word by word, supports multi-model switching (Mistral, Phi-3, Gemma), custom RAG engine with 700-word chunking for PDF document intelligence, one-click voice input via Google STT, and 5 dynamic tone modes. | Python, Streamlit, Ollama, SpeechRecognition, pdfplumber |
+| **CollabFlow — Real-Time Collaborative Editor** | Full-stack collaborative document editor with glassmorphism UI and 4 dynamic themes. React 19 + Tiptap editor, JWT authentication, bcrypt hashing, server-side DOMPurify XSS prevention, role-based access controls, 1-second debounced auto-save, Google Gemini 2.5 Flash AI Proofreader, and client-side PDF/Word exporters. | React 19, Vite, Tiptap, Node.js, JWT, bcrypt, Gemini API, MongoDB |
+| **AI Network Detection System** | Real-time network monitoring dashboard detecting suspicious traffic patterns including DDoS and brute-force attacks using rule-based AI logic. Features live alerting, interactive visualization, and MongoDB-backed authentication. | Python, Flask, MongoDB, JavaScript |
+| **AI Detection & Diagnosis System** | Full-stack Flask dashboard for real-time IP network analysis. AI pattern detection identifies network threats, generates live alerts, and logs activity to MongoDB with modular architecture and secure authentication. | Python, Flask, MongoDB, JavaScript |
+| **AURA — Audio Visual Response** | Voice-responsive embedded system built by a 6-member all-women engineering team. Captures voice via microphone, processes through Python Whisper for speech-to-text, sends response to Arduino Mega via serial, displays animated facial expressions on TFT LCD, and outputs audio through speaker module. | Arduino Mega, Arduino Nano, Python, Whisper, Embedded C++, TFT LCD |
+| **NeuroTick** | Flutter-based Android educational app with 500+ quiz questions across 5 STEM categories. Multi-level difficulty, progress tracking analytics, Firebase backend, and interactive 3D GLB solar system models for conceptual visualization. | Flutter, Dart, Firebase, Firestore, Provider, 3D GLB |
+| **Network Detection** | Python-based network security tool analyzing live network behavior via ping and traceroute operations. Applies rule-based AI logic to determine whether a network is secure or compromised and exposes results via REST API. | Python, Flask, API |
+| **Art Gallery Website** | Dynamic calligraphy art gallery built on XAMPP stack. Public visitors browse and filter artworks by style, size, medium, and price. Secure admin panel for artwork management with image uploads and PHPMailer contact form. | PHP, MySQL, XAMPP, HTML, CSS, JavaScript |
+| **Study Session Planner** | Web-based study planner with integrated test scheduling. Led a cross-functional team of 3 using agile methodology, Jira, and GitHub practices to complete all project epics on schedule. | HTML, CSS, JavaScript, Jira |
+| **Task Manager System** | Full-featured task manager built in C++ using queue and dynamic array data structures. Priority-based task scheduling, sound-triggered reminders, and an integrated AI chatbot assistant with multi-window UI. | C++, HTML, JS, Python, Flask |
+| **Smart City Management System** | Academic system for managing city services including waste management, transport, and utilities. Designed with UML diagrams, use case modeling, and Firebase backend. | UML, Python, Firebase |
+| **Computer Vision Projects** | YOLO-based vehicle detection system with custom object detection pipelines for real-time vehicle identification and tracking. Bounding box visualizations rendered via OpenCV and Matplotlib. | Python, YOLO, OpenCV, Matplotlib |
 
 More projects will be added as my portfolio grows.
 
