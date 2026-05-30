@@ -40,7 +40,7 @@ OOP | Data Structures & Algorithms | MVC Architecture | Software Design Patterns
 | **Smart City Management System** | Academic system for managing city services including waste management, transport, and utilities. Designed with UML diagrams, use case modeling, and Firebase backend. | UML, Python, Firebase |
 | **Computer Vision Projects** | YOLO-based vehicle detection system with custom object detection pipelines for real-time vehicle identification and tracking. Bounding box visualizations rendered via OpenCV and Matplotlib. | Python, YOLO, OpenCV, Matplotlib |
 
-More projects will be added as my portfolio grows.
+
 
 ## GitHub Stats
 
