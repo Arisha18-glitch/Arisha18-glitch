@@ -1,6 +1,6 @@
 # Syeda Arisha
 
-Software Engineering Student | AI/ML, Embedded Systems & Full-Stack Dev | Turning ideas into working systems
+AI/ML & Generative AI Developer | LLM Fine-Tuning | RAG Systems | Cybersecurity ML | Turning ideas into working systems
 
 Building scalable software, AI-driven systems, and clean, maintainable code. Focused on problem-solving, backend, and system design.
 
